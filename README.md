@@ -1,4 +1,4 @@
-# News App made by Rajan Gautam using React Native
+# Review App made by Rajan Gautam using React Native
 
 ## Short Introduction of App
 
